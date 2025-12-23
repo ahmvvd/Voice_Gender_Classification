@@ -6,7 +6,7 @@ This project implements a **real-time voice gender classification system** (male
 
 ---
 
-## 🛠️ Hardware Used
+##  Hardware Used
 
 * STM32 Nucleo-L476RG
 * INMP441 I²S Digital Microphone
@@ -15,7 +15,7 @@ This project implements a **real-time voice gender classification system** (male
 
 ---
 
-## 🔌 Pin Connections (SAI2)
+##  Pin Connections (SAI2)
 
 | Microphone Pin | STM32 Pin | Function   |
 | -------------- | --------- | ---------- |
@@ -27,7 +27,7 @@ This project implements a **real-time voice gender classification system** (male
 
 ---
 
-## ⚙️ Software & Tools
+##  Software & Tools
 
 * STM32CubeMX
 * STM32CubeIDE
@@ -87,3 +87,4 @@ This project is for **educational and research purposes**.
 * STMicroelectronics
 * STM32Cube.AI Documentation
 * Open-source ML community
+
